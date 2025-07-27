@@ -42,7 +42,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,dynamodb,ruby,github,html,js,linux,md,mysql,nextjs,nodejs,py,react,jquery,java,mongodb,ts,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,dynamodb,ruby,github,html,js,linux,md,mysql,nextjs,nodejs,py,react,jquery,kotlin,aws,gcp,azure,vue,java,mongodb,kubernetes,arch,atom,arduino,astro,debian,apple,crystal,clion,bash,cs,vim,ts,postman,nestjs,npm,vscode,&perline=14" />
   </a>
 </p>
 
